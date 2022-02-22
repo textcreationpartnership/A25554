@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to Blundell the Jesuits letter that was taken about him at Lambeth, on Munday the 23d. of this instant June, directed to the Jesuits at Cambra in Flanders, wherein he gives them an account of several notorious untruths concerning the proceedings in court against the five Jesuits lately executed : with several other preposterous relations, the which being duly weighed, it was thought fit to exhibit this responsary to confute his errors, and for vindication of the wholesome laws and impartial judicature of this our English nation &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25554</idno>
+            <idno type="STC">Wing A3353</idno>
+            <idno type="STC">ESTC R34196</idno>
+            <idno type="EEBO-CITATION">13963187</idno>
+            <idno type="OCLC">ocm 13963187</idno>
+            <idno type="VID">102075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1560:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to Blundell the Jesuits letter that was taken about him at Lambeth, on Munday the 23d. of this instant June, directed to the Jesuits at Cambra in Flanders, wherein he gives them an account of several notorious untruths concerning the proceedings in court against the five Jesuits lately executed : with several other preposterous relations, the which being duly weighed, it was thought fit to exhibit this responsary to confute his errors, and for vindication of the wholesome laws and impartial judicature of this our English nation &amp;c.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.F. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:102075:1"/>
+            <head>AN ANSWER TO <hi>Blundell</hi> the Jeſuits LETTER; That was taken about him at <hi>Lambeth,</hi> on <hi>Munday</hi> the <hi>23d.</hi> of this Inſtant <hi>June.</hi>
+            </head>
+            <head type="sub">Directed to the <hi>Jeſuits</hi> at <hi>Cambra</hi> in <hi>Flanders:</hi> Wherein he gives them an Account of ſeveral Notorious Untruths, concerning the Proceedings in Court, againſt the Five <hi>Jeſuits</hi> lately Executed: with ſeveral other Prepoſterous Relations. The which being duly weighed, it was thought fit to Exhibit this Reſponſary to confute his errors, and for Vindication of the wholeſome <hi>Laws,</hi> and Impart<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Judicature of this Our <hi>ENGLISH</hi> Nation, &amp;c.</head>
+            <p>No Wonder if the <hi>Jeſuitick</hi> Order can Diſſem<g ref="char:EOLhyphen"/>ble thus with their own Friends, and ſend them Fallacies to keep them Ignorant of their Diabo<g ref="char:EOLhyphen"/>lick and moſt unheard of Villanies; the which in open Day have ſhew'd their diſmal heads in this our Native Land: nay, and not only here, but through the Chriſtian World, that they can Equivocate with us for their own Intereſt, whom they mark out as mortal Foes. What Nation has not heard ſince firſt that cruel Order took its birth of Rapes and Maſſacres, and Murdered Kings, Poyſoning and Devaſtations, Tortures, and all the Cruel rage that the Infernal Legions arm'd with fatal counſels e're could prompt them to; for they the barbarous Executioners of Tyrant <hi>Rome,</hi> diſ<g ref="char:EOLhyphen"/>perſe themſelves abroad throughout the Earth, and gather in the Slain to fill her <hi>Babiloniſh</hi> Cup with reaking Blood from Tender Hearts of Innocents diſtill'd—This when they rove like thirſty Tygers in their uncontrouled paths, but if reſtrain'd from their pernitious Deeds by interpoſing Juſtice arm, they never look back to view what they have done to others, but cry, themſelves are ſore oppreſt for thoſe, who in ſteeming ſlaughter do delight: ſo they themſelves are not concerned, love not to undergo the leaſt of pain. And here among the reſt I ſhall expoſe unto the World, the obſerva<g ref="char:EOLhyphen"/>tion of which being well weighed and conſidered, the which is an Erronious <hi>Letter</hi> or <hi>Lybill</hi> that was found in the poſſeſſion of one <hi>Richard Blundell,</hi> an Arch and notorious <hi>Jeſuit,</hi> and a great Inſtru<g ref="char:EOLhyphen"/>ment for the carrying on of the late Diabolick Plot: when he was taken ſome few days ſince at <hi>Lambeth,</hi> and now remaineth in the County Goal, the which reflecting upon the Juſtice of our Nation, with many notorious untruths, the which in order: Firſt, Denying that there was any Plot, and that the Five <hi>Jeſuits</hi> lately Executed, were wrongfully condemned, and that they had not priviledge to ſpeak for themſelves. The which notorious and ſcandalous Objecti<g ref="char:EOLhyphen"/>ons may be anſwered: That theſe Parties being Apprehended for High-Treaſon in deſigning the Death of his Sacred Majeſty, and for the endeavouring to ſubvert the true Proteſtant-Religion, had during the time of their Impriſonment, all the favours and priviledges ima<g ref="char:EOLhyphen"/>ginable, to bring proof if they had or could produce any for the bet<g ref="char:EOLhyphen"/>ter clearing of themſelves, and that when they came to their Tryals their witneſſes (the which it was probably conjectured, were ſuborned and ſent by their Tutors from St. <hi>Omers,</hi> and other places, being moſt of them young Students to validetate the aſſertions of Dr. <hi>Oats,</hi>) yet notwithſtanding were moſt patiently heard: The often Laughter cauſed in the Court, which he objecteth was by their confounding themſelves in their Averrations, for they not being well verſed in <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Lyes, or that their premeditated Doctrine being not well digeſt<g ref="char:EOLhyphen"/>ed, they baffled one another moſt erroniouſly in their Diſcourſes, for one ſaid this, the next being asked denyed it, and ſaid it was af<g ref="char:EOLhyphen"/>ter another manner; ſo that their Atteſtations proved not only Ine<g ref="char:EOLhyphen"/>ffectual, but alſo prejudicial to the Priſoners. Their main point they in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſted on, was to prove that Dr. <hi>Oats</hi> was himſelf at St. <hi>Omers</hi> at the ſame time he had given in upon Oath he was at the Society of <hi>Jeſuits</hi> in <hi>London,</hi> on the 24th. of <hi>April</hi> 77, and thereupon by reaſon their Rable affirmed it, though many of them never ſaw him, nor in Court had not known which was he unleſs they had been ſhewed. Upon this abortive reaſon, this adaucious <hi>Ieſuit</hi> affirms that Dr. <hi>Oats</hi> was per<g ref="char:EOLhyphen"/>jur'd: The material of the Witneſſes was a <hi>Taylor</hi> belonging to the Colledge aforeſaid, who if he had denyed to come over upon this account, how falſe ſoever, had certainly loſt the <hi>Jeſuits</hi> Work, and peradventure all his Tools, except he had conveyed them out of the Colledge by Moon-light; ſo that for his being conſcious in atteſting a known untruth, the poor Fellow had been undone for ever. The next was the Butler, who was Sequeſtred of his place, and made to Swear be would never Lye with any <hi>Nun</hi> in <hi>France,</hi> nor Faſt a whole <hi>Lent</hi> together, till he had performed the Rectors Will, who put him in remembrance of the brave Atcheivements of thoſe <hi>Hero's,</hi> who were ſent over in King <hi>James's,</hi> Time, ſuppoſing to excuſe Father <hi>Garnet</hi> and the reſt of the <hi>Jeſuits,</hi> in the daring <hi>Powder-Plot.</hi> The Gardener ſeeing this, thought it was time for him to ſtand out, leſt his <hi>Pala<g ref="char:EOLhyphen"/>zados</hi> ſhould be overthrown, and all his Trinks thrown about, he Volentarily conſented; ſo that they with the reſt, being by the publick Confeſſion abſolved for what they ſhould ſay or Swear, came merrily over, but went as ſhamefully home after they had Diſgorg'd their <hi>Popiſh</hi> Element, vowing never to bring any more Lyes into <hi>England,</hi> ſeeing they were no better accepted, and no more regard taken of them; they being Mint of the <hi>Popes</hi> own ſtamp, for Dr. <hi>Oats</hi> bringing in four Witneſſes, one of them being a Dominican <hi>Fryer,</hi> a Chicken of the <hi>Popes</hi> own Hatching; and Three more honeſt Proteſtant Atteſtators, who both ſaw, Spoke, and Drank with him on that Day, their Oaths being abſolutely depoſed upon the ſame; Had all the <hi>Roman</hi> Conclave with each of them a Bull in his Hand, that could have Roared the contrary as loud as thoſe of <hi>Baſon,</hi> the judicious Court would ſcarcely have credited them if but for Diſpen<g ref="char:EOLhyphen"/>ſation ſake; But to the purpoſe, farther he ſays, that during the time of their Tryals, they behaved themſelves like Apoſtles, but were not come to be the Sons of Thunder, becauſe the Plot took no effect, for if it had, each of them then had been a <hi>Boanerges,</hi> and would have Thundred down both Church and State. Again, he objects moſt fal<g ref="char:EOLhyphen"/>ſly, That during the time of their Tryals, the Court ſhouted as if it had been a Bear-baiting, the which if there was any diſturbance or incivility from unruly ſpectators, their fooliſh Witneſſes, as afore<g ref="char:EOLhyphen"/>ſaid, were the cauſe of it. But give me leave to ask the Monſieut <hi>Je<g ref="char:EOLhyphen"/>ſuit</hi> what Bear-baitings were in <hi>Ireland</hi> committed in 41. by the barbarous and bloody <hi>Papiſts,</hi> when 300000 innocent Proteſtants unjuſtly fell, not being ſuffered ſo much as to ſpeak for themſelves, but were inhumanely ſacrific'd by their deviliſh rage. In the ſame caſe had we been e're this time, had not Omnipotence prevented it. And farther let him know, that had they not been concerned in the Plot, (as unqueſtionably they were) that there is a Law forbidding all <hi>Jeſuits,</hi> and <hi>Romiſh-Prieſts</hi> to avoid the Land on pain of Death; the which they knowing, and preſumptuouſly offending, by that contempt had forfeited their lives, but Proteſtants are merciful, and will not act the rigour again. It is a queſtion whether the Earl of <hi>Shaftsbury</hi> offered them any ſuch Grace from his Majeſty, during their Impri<g ref="char:EOLhyphen"/>ſonment, knowing them to be Prieſts, and therefore irreclamable: Farther 'tis objected, that they went joyfully to the place of Executi<g ref="char:EOLhyphen"/>on, ſo did the <hi>Monk</hi> that Stab'd King <hi>Henry</hi> of <hi>France,</hi> the Dagger being Conſecrated, dipped in the <hi>Euchriſt,</hi> and wrapt in the reliques of a Saint, to make it more forcible for Execution, and then with ſo<g ref="char:EOLhyphen"/>lemn Oaths to deny is the property of the <hi>Romiſh</hi> Faction. As to the Reprieve that is related to be tendered them at the place of Execu<g ref="char:EOLhyphen"/>tion, is moſt erroniouſly falſe, and no man can be produced that ſaw any ſuch thing, but that is ſuggeſted to note to the world how little they feared death, and to animate thoſe that remain to imitate them in their Diabolick practices, trifting with Eternity, and dye with lyes in their mouths, which lying and equivocating may be ſeen at the late Apprehending of this <hi>Blundell,</hi> about whom (as it is credibly re<g ref="char:EOLhyphen"/>ported) this Letter was found; who both to the Juſtice Dr. <hi>Oates,</hi> and the Conſtable, forſwore himſelf, his Name, and Function; and that he was a poor man ready to ſtarve, and had not a Shilling in the world: with many other dire Proteſtations, when upon ſearch they found about him 60 peices of Gold, this letter and many other Sedi<g ref="char:EOLhyphen"/>tious Writings; ſo that now as he was ſo officious to his Brethren in Iniquity, ſome of the reſt may Execute the ſame for him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Princed for <hi>F. F.</hi> in the Year. 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
